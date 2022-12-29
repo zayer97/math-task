@@ -1,0 +1,8 @@
+C:\Users\Hassa\source\repos\KK\KK\obj\Debug\KK.csproj.AssemblyReference.cache
+C:\Users\Hassa\source\repos\KK\KK\obj\Debug\KK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hassa\source\repos\KK\KK\obj\Debug\KK.csproj.CoreCompileInputs.cache
+C:\Users\Hassa\source\repos\KK\KK\bin\Debug\KK.exe.config
+C:\Users\Hassa\source\repos\KK\KK\bin\Debug\KK.exe
+C:\Users\Hassa\source\repos\KK\KK\bin\Debug\KK.pdb
+C:\Users\Hassa\source\repos\KK\KK\obj\Debug\KK.exe
+C:\Users\Hassa\source\repos\KK\KK\obj\Debug\KK.pdb
